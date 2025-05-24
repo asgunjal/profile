@@ -1,4 +1,4 @@
-# Ajit Gunjal - Specialist Software Engineer  
+# Ajit Gunjal - Tech Lead  
 
 Welcome to my GitHub profile! I am a **Specialist Software Engineer** with over **13 years of experience** in **FinTech, E-Commerce, and Telecom** domains. I specialize in **web application development**, **Azure cloud migration**, and **microservices architecture**.  
 
